@@ -1,3 +1,4 @@
+import './tracing/trace.provider';
 import { NestFactory } from '@nestjs/core';
 import { GatewayModule } from './gateway.module';
 
